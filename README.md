@@ -1,4 +1,4 @@
-# AdaKron
+# AdaKron and MAdaKron
 
 ## Steps to reproduce our results
 ### Create and activate conda env
